@@ -33,7 +33,6 @@ Software developer based in Surabaya, Indonesia with hands-on experience spannin
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -48,64 +47,6 @@ Software developer based in Surabaya, Indonesia with hands-on experience spannin
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-**Database & Messaging**
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## Featured Projects
-
-### [Asynchronous Log Export System](https://github.com/luqelha/asynchronous-log-export-system)
-
-Event-driven log export pipeline built for reliability and scale. Uses message queues to decouple log ingestion from processing and export, with Redis-backed caching and fully containerized deployment.
-
-`Node.js` · `RabbitMQ` · `Redis` · `Docker`
-
----
-
-### [Musicalice](https://github.com/luqelha/musicalice)
-
-Cross-platform music player application with Spotify API integration. Features playlist exploration, personalized recommendations, and a polished playback interface.
-
-`Flutter` · `Dart` · `Spotify API`
-
----
-
-### [Student Affairs Dashboard](https://github.com/luqelha/student-affairs)
-
-Administrative platform for managing scholarships, student organizations, and academic achievements. Full CRUD operations with role-based access and data visualization.
-
-`Laravel` · `PHP` · `Blade` · `MySQL`
-
----
-
-### [Go Youn-jung Photocard](https://github.com/luqelha/goyounjung-photocard)
-
-High-end editorial-inspired digital archive with cinematic animations and responsive gallery layouts. Deployed at [gyj.luqelha.my.id](https://gyj.luqelha.my.id).
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
-
----
-
-### [CodeIgniter DSS](https://github.com/luqelha/codeigniter-dss-wp)
-
-Decision Support System implementing weighted product methodology for structured decision-making workflows.
-
-`CodeIgniter` · `PHP` · `MySQL`
 
 ---
 
