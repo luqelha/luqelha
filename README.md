@@ -13,7 +13,6 @@ Building end-to-end solutions across web, mobile, and backend systems.
 
 </div>
 
----
 
 ## About
 
@@ -23,8 +22,6 @@ Software developer based in Surabaya, Indonesia with hands-on experience spannin
 - Building cross-platform mobile apps with **Flutter** and third-party API integrations
 - Designing event-driven backend systems using **RabbitMQ**, **Redis**, and **Docker**
 - Exploring scalable architecture patterns and DevOps workflows
-
----
 
 ## Tech Stack
 
@@ -48,7 +45,6 @@ Software developer based in Surabaya, Indonesia with hands-on experience spannin
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
----
 
 ## GitHub Analytics
 
@@ -64,22 +60,11 @@ Software developer based in Surabaya, Indonesia with hands-on experience spannin
 
 </div>
 
----
-
-## Current Focus
-
-- Deepening expertise in **event-driven architecture** and distributed systems
-- Building full-stack applications with **Next.js** and **TypeScript**
-- Expanding **Flutter** development for production mobile apps
-- Exploring **containerized deployment** workflows with Docker
-
----
 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luqelha)
 
----
 
 <div align="center">
 
