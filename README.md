@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/luqelha/luqelha/main/images/luqelha.png&w=150&h=150&fit=cover&mask=circle&mtrim" alt="Muhammad Luqmanul Hakim" width="150" height="150" />
+<img src="images/luqelha.png" alt="Muhammad Luqmanul Hakim" width="150" height="150" />
 
 <br/>
 
@@ -16,21 +16,15 @@
 Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
-<br/>
-
 </div>
 
 <div align="center">
-
-## GitHub Analytics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqelha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170" />
 
 </div>
 
 <div align="center">
-
-## Connect
 
 <br/>
 
