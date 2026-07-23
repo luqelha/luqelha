@@ -4,7 +4,7 @@
 
 <img src="gifs/codingtime.gif" alt="Error 404" width="400" />
 
-<br/>
+<br/><br/>
 
 Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
