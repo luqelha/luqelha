@@ -1,50 +1,24 @@
 <div align="center">
 
-# Muhammad Luqmanul Hakim
+<img src="images/luqelha.png" alt="Muhammad Luqmanul Hakim" width="150" height="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+
+<br/>
 
 **Full-Stack Developer**
+
+<br/>
+
+<img src="gifs/code-animation.gif" alt="Coding Animation" width="600" style="border-radius: 10px;" />
+
+<br/>
+<br/>
 
 Building end-to-end solutions across web, mobile, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
-[![GitHub](https://img.shields.io/badge/GitHub-luqelha-181717?style=flat&logo=github&logoColor=white)](https://github.com/luqelha)
-&nbsp;&nbsp;
-[![Location](https://img.shields.io/badge/Surabaya,_Indonesia-0A66C2?style=flat&logo=googlemaps&logoColor=white)](#)
+<br/>
 
 </div>
-
-
-## About
-
-Software developer based in Surabaya, Indonesia with hands-on experience spanning full-stack web development, cross-platform mobile applications, and backend systems engineering. Comfortable working across the entire stack — from crafting responsive frontends with Next.js and Laravel Blade to designing asynchronous backend pipelines with message queues and containerized services.
-
-- Developing production-grade web applications with **Laravel** and **Next.js**
-- Building cross-platform mobile apps with **Flutter** and third-party API integrations
-- Designing event-driven backend systems using **RabbitMQ**, **Redis**, and **Docker**
-- Exploring scalable architecture patterns and DevOps workflows
-
-## Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-
 
 ## GitHub Analytics
 
@@ -60,11 +34,13 @@ Software developer based in Surabaya, Indonesia with hands-on experience spannin
 
 </div>
 
-
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luqelha)
 
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luqelha)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://slinkedin.com/in/muhammad-luqmanul-hakim-77047326a/)
 
 <div align="center">
 
