@@ -1,9 +1,12 @@
+<div align="center">
+
 <br/>
 
 <img src="gifs/error404.gif" alt="Error 404" width="400" />
 
 <br/>
-<br/>
+
+</div>
 
 Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
