@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<br/>Building end-to-end solutions across web, and backend systems.
+Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
 <br/>
