@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="gifs/rolling-catty.gif" alt="Error 404" width="400" />
+<img src="gifs/rolling-catty.gif" alt="Rolling Catty" width="400" />
 
 <br/>
 
