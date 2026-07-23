@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="gifs/error404.gif" alt="Error 404" width="400" />
+<img src="gifs/codingtime.gif" alt="Error 404" width="400" />
 
 <br/>
 
