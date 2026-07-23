@@ -11,8 +11,6 @@
 <br/>Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
-<img src="gifs/catch.gif" alt="Rolling Catty" width="400" />
-
 <br/>
 
 **Connect With Me**
