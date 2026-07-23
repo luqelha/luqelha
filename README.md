@@ -1,11 +1,3 @@
-<div align="center">
-
-**luqelha | Full-Stack Developer**
-
-<img src="images/luqelha.png" alt="Muhammad Luqmanul Hakim" width="150" height="150" />
-
-<br/>
-
 <br/>
 
 <img src="gifs/error404.gif" alt="Error 404" width="400" />
