@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/luqelha.png" alt="Muhammad Luqmanul Hakim" width="150" height="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/luqelha/luqelha/main/images/luqelha.png&w=150&h=150&fit=cover&mask=circle&mtrim" alt="Muhammad Luqmanul Hakim" width="150" height="150" />
 
 <br/>
 
@@ -13,16 +13,16 @@
 <br/>
 <br/>
 
-Building end-to-end solutions across web, mobile, and backend systems.
+Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
 <br/>
 
 </div>
 
-# GitHub Analytics
-
 <div align="center">
+
+## GitHub Analytics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqelha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170" />
 
@@ -30,7 +30,9 @@ Building end-to-end solutions across web, mobile, and backend systems.
 
 <div align="center">
 
-# Connect
+## Connect
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luqelha)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luqelha)
