@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gifs/computerman.gif" alt="Rolling Catty" width="400" />
+<img src="gifs/error404.gif" alt="Rolling Catty" width="400" />
 
 <br/>
 
