@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luqelha)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luqelha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-luqmanul-hakim-77047326a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge)](https://luqelha.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luqelha.my.id)
 
 <img src="gifs/loader-cat.gif" alt="Loader Cat" width="150" />
 
