@@ -2,8 +2,6 @@
 
 <img src="gifs/error404.gif" alt="Rolling Catty" width="400" />
 
-<br/>
-
 </div>
 
 <div align="center">
