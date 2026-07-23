@@ -2,16 +2,20 @@
 
 <br/>
 
-<img src="gifs/rolling-catty.gif" alt="Rolling Catty" width="400" />
+<img src="gifs/computerman.gif" alt="Rolling Catty" width="400" />
+
+<br/>
+
+<img src="gifs/catch.gif" alt="Rolling Catty" width="400" />
 
 <br/>
 
 Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
-</div>
+<br/>
 
-<div align="center">
+<img src="gifs/catch.gif" alt="Rolling Catty" width="400" />
 
 <br/>
 
