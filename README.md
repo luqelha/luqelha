@@ -1,7 +1,5 @@
 <div align="center">
 
-<br/>
-
 <img src="gifs/computerman.gif" alt="Rolling Catty" width="400" />
 
 <br/>
@@ -10,7 +8,7 @@
 
 <div align="center">
 
-Building end-to-end solutions across web, and backend systems.
+<br/>Building end-to-end solutions across web, and backend systems.
 <br/>Focused on clean architecture, modern frameworks, and scalable infrastructure.
 
 <img src="gifs/catch.gif" alt="Rolling Catty" width="400" />
